@@ -6,7 +6,7 @@ public class MinhaClasse {
 
         int ano = 2024;
 
-        boolean verdadeira = true;
+        //boolean verdadeira = true;
 
         System.out.println("Ola, Mundo!! Estamos em " + ano +"\n");
 
