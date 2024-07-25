@@ -3,9 +3,21 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ContaTerminal",
+            "request": "launch",
+            "mainClass": "ContaTerminal",
+            "projectName": "dio-java-backend-santader_c927a5cd"
+        },
+        {
+            "type": "java",
             "request": "launch",
             "mainClass": "AboutMe",
-            "args": ["Diogo", "Modrach", "38", "1.70"]
+            "args": [
+                "Diogo",
+                "Modrach",
+                "38",
+                "1.70"
+            ]
         }
     ]
 }
