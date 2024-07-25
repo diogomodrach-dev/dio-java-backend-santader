@@ -3,6 +3,7 @@ public class Usuario {
     public static void main(String[] args) {
         
         SmartTv smartTv = new SmartTv();
+        SmartTv smartTv2 = new SmartTv();
 
         System.out.println("Tv ligada? " + smartTv.ligada);
         System.out.println("Canal atual: " + smartTv.canal);
@@ -25,6 +26,9 @@ public class Usuario {
 
         smartTv.mudarCanal(45);
         System.out.println("Novo Canal da TV: " + smartTv.canal);
+
+        smartTv2.mudarCanal(55);
+        System.out.println("Novo Canal da TV: " + smartTv2.canal);
 
     }
     
