@@ -3,6 +3,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PlanoOperadora",
+            "request": "launch",
+            "mainClass": "PlanoOperadora",
+            "projectName": "dio-java-backend-santader_c927a5cd"
+        },
+        {
+            "type": "java",
+            "name": "SistemaMedida2",
+            "request": "launch",
+            "mainClass": "SistemaMedida2",
+            "projectName": "dio-java-backend-santader_c927a5cd"
+        },
+        {
+            "type": "java",
+            "name": "SistemaMedida",
+            "request": "launch",
+            "mainClass": "SistemaMedida",
+            "projectName": "dio-java-backend-santader_c927a5cd"
+        },
+        {
+            "type": "java",
+            "name": "BoletimEscolar2",
+            "request": "launch",
+            "mainClass": "BoletimEscolar2",
+            "projectName": "dio-java-backend-santader_c927a5cd"
+        },
+        {
+            "type": "java",
+            "name": "ResultadoEscolar",
+            "request": "launch",
+            "mainClass": "ResultadoEscolar",
+            "projectName": "dio-java-backend-santader_c927a5cd"
+        },
+        {
+            "type": "java",
+            "name": "BoletimEscolar",
+            "request": "launch",
+            "mainClass": "BoletimEscolar",
+            "projectName": "dio-java-backend-santader_c927a5cd"
+        },
+        {
+            "type": "java",
+            "name": "CaixaEletronico",
+            "request": "launch",
+            "mainClass": "CaixaEletronico",
+            "projectName": "dio-java-backend-santader_c927a5cd"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "dio-java-backend-santader_c927a5cd"
+        },
+        {
+            "type": "java",
             "name": "ContaTerminal",
             "request": "launch",
             "mainClass": "ContaTerminal",
