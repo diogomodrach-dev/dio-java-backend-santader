@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Contador",
+            "request": "launch",
+            "mainClass": "Contador",
+            "projectName": "dio-java-backend-santader_c927a5cd"
+        },
+        {
+            "type": "java",
             "name": "LigacaoCandidato",
             "request": "launch",
             "mainClass": "LigacaoCandidato",
