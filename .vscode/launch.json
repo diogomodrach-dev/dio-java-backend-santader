@@ -3,6 +3,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FormatadorCep",
+            "request": "launch",
+            "mainClass": "FormatadorCep",
+            "projectName": "dio-java-backend-santader_c927a5cd"
+        },
+        {
+            "type": "java",
+            "name": "ExemploDeExcecao",
+            "request": "launch",
+            "mainClass": "ExemploDeExcecao",
+            "projectName": "dio-java-backend-santader_c927a5cd"
+        },
+        {
+            "type": "java",
             "name": "RepeticaoDoWhile",
             "request": "launch",
             "mainClass": "RepeticaoDoWhile",
