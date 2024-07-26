@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CalculadoraDeMedias",
+            "request": "launch",
+            "mainClass": "CalculadoraDeMedias",
+            "projectName": "dio-java-backend-santader_c927a5cd"
+        },
+        {
+            "type": "java",
             "name": "FormatadorCep",
             "request": "launch",
             "mainClass": "FormatadorCep",
