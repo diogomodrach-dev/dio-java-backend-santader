@@ -3,6 +3,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LigacaoCandidato",
+            "request": "launch",
+            "mainClass": "LigacaoCandidato",
+            "projectName": "dio-java-backend-santader_c927a5cd"
+        },
+        {
+            "type": "java",
+            "name": "ProcessoSeletivo",
+            "request": "launch",
+            "mainClass": "ProcessoSeletivo",
+            "projectName": "dio-java-backend-santader_c927a5cd"
+        },
+        {
+            "type": "java",
             "name": "CalculadoraDeMedias",
             "request": "launch",
             "mainClass": "CalculadoraDeMedias",
