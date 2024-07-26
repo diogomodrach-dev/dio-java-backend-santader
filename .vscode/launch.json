@@ -3,6 +3,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RepeticaoDoWhile",
+            "request": "launch",
+            "mainClass": "RepeticaoDoWhile",
+            "projectName": "dio-java-backend-santader_c927a5cd"
+        },
+        {
+            "type": "java",
+            "name": "RepeticaoWhile",
+            "request": "launch",
+            "mainClass": "RepeticaoWhile",
+            "projectName": "dio-java-backend-santader_c927a5cd"
+        },
+        {
+            "type": "java",
+            "name": "RepeticaoForContinue",
+            "request": "launch",
+            "mainClass": "RepeticaoForContinue",
+            "projectName": "dio-java-backend-santader_c927a5cd"
+        },
+        {
+            "type": "java",
+            "name": "RepeticaoFor2",
+            "request": "launch",
+            "mainClass": "RepeticaoFor2",
+            "projectName": "dio-java-backend-santader_c927a5cd"
+        },
+        {
+            "type": "java",
+            "name": "RepeticaoForBreak",
+            "request": "launch",
+            "mainClass": "RepeticaoForBreak",
+            "projectName": "dio-java-backend-santader_c927a5cd"
+        },
+        {
+            "type": "java",
+            "name": "RepeticaoForSimplificada",
+            "request": "launch",
+            "mainClass": "RepeticaoForSimplificada",
+            "projectName": "dio-java-backend-santader_c927a5cd"
+        },
+        {
+            "type": "java",
+            "name": "RepeticaoForArrays",
+            "request": "launch",
+            "mainClass": "RepeticaoForArrays",
+            "projectName": "dio-java-backend-santader_c927a5cd"
+        },
+        {
+            "type": "java",
+            "name": "RepeticaoFor",
+            "request": "launch",
+            "mainClass": "RepeticaoFor",
+            "projectName": "dio-java-backend-santader_c927a5cd"
+        },
+        {
+            "type": "java",
             "name": "PlanoOperadora",
             "request": "launch",
             "mainClass": "PlanoOperadora",
