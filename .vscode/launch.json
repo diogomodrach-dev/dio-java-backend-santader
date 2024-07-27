@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Desafio",
+            "request": "launch",
+            "mainClass": "Desafio",
+            "projectName": "dio-java-backend-santader_c927a5cd"
+        },
+        {
+            "type": "java",
             "name": "ControleSimplesDeSaques",
             "request": "launch",
             "mainClass": "ControleSimplesDeSaques",
