@@ -3,6 +3,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ControleSimplesDeSaques",
+            "request": "launch",
+            "mainClass": "ControleSimplesDeSaques",
+            "projectName": "dio-java-backend-santader_c927a5cd"
+        },
+        {
+            "type": "java",
+            "name": "VerificacaoChequeEspecial",
+            "request": "launch",
+            "mainClass": "VerificacaoChequeEspecial",
+            "projectName": "dio-java-backend-santader_c927a5cd"
+        },
+        {
+            "type": "java",
+            "name": "VerificadorElegibilidadeConta",
+            "request": "launch",
+            "mainClass": "VerificadorElegibilidadeConta",
+            "projectName": "dio-java-backend-santader_c927a5cd"
+        },
+        {
+            "type": "java",
+            "name": "VerificadorNumeroConta",
+            "request": "launch",
+            "mainClass": "VerificadorNumeroConta",
+            "projectName": "dio-java-backend-santader_c927a5cd"
+        },
+        {
+            "type": "java",
+            "name": "SimulacaoBancaria",
+            "request": "launch",
+            "mainClass": "SimulacaoBancaria",
+            "projectName": "dio-java-backend-santader_c927a5cd"
+        },
+        {
+            "type": "java",
             "name": "Contador2",
             "request": "launch",
             "mainClass": "Contador2",
